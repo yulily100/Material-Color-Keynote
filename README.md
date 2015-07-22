@@ -4,7 +4,7 @@ material designっぽい色になるKeynoteテンプレートです
 - 日本語フォントはNoto Sans Japanese
   - https://www.google.com/get/noto/
 - 欧文フォントはRoboto
-  - http://developer.android.com/design/style/typography.html
+  - https://www.google.com/design/spec/resources/roboto-noto-fonts.html
 
 を使うとマテリアル感up!!!!
 
