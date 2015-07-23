@@ -1,12 +1,12 @@
 # DroidKaigi-color-keynote
-material designっぽい色になるKeynoteテンプレートです
+material designっぽい色になるKeynoteテンプレートです。
 
-- 日本語フォントはNoto Sans Japanese
-  - https://www.google.com/get/noto/
+- 日本語フォントはNoto Sans CJK JP
+  - https://www.google.com/get/noto/#sans-jpan
 - 欧文フォントはRoboto
   - https://www.google.com/design/spec/resources/roboto-noto-fonts.html
 
-を使うとマテリアル感up!!!!
+に設定しています。上記からダウンロードしてお使いください。もちろん、ヒラギノとHelveticaのままでも可能です。「フォントがありません」のアラートが出るかもしれませんが、お気になさらず。
 
 # Install
 
