@@ -1,5 +1,7 @@
 # DroidKaigi-color-keynote
-material designっぽい色になるKeynoteテンプレートです。
+material designっぽい色になるKeynoteテンプレートです。  
+色合いの見本はこちら  
+https://speakerdeck.com/yulily100/tesainakaxmlwoshu-kuahurikai-fa-huro
 
 - 日本語フォントはNoto Sans CJK JP
   - https://www.google.com/get/noto/#sans-jpan
@@ -10,9 +12,10 @@ material designっぽい色になるKeynoteテンプレートです。
 
 # Install
 
+- 右サイドバーの「Download Zip」からファイルをダウンロード
 - .zip を解凍
 - .key を Keynote で開く
-- ファイル → テーマを保存 でテーマとして登録してください。
+- ファイル → テーマを保存 でテーマとして登録してください
 
 # Author
 
